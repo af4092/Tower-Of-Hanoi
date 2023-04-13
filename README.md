@@ -18,6 +18,7 @@ The objective of the problem is to move all the disks from A to B with the assis
 ![image](https://user-images.githubusercontent.com/24220136/230293840-b154755e-f911-4607-bfd9-901ed1064f87.png)
 
 Analyze the Tower of Hanoi Problem.
+
 The Tower of Hanoi problem recursively moves n disks from tower A to tower B with the assistance of tower C as following:
 1. Move the first n-1 disks from A to C with the assistance of tower B
 2. Move disk n from A to B
