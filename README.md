@@ -22,6 +22,7 @@ The Tower of Hanoi problem recursively moves n disks from tower A to tower B wit
 1. Move the first n-1 disks from A to C with the assistance of tower B
 2. Move disk n from A to B
 3. Move n-1 disks from C to B with the assistance of tower A
+
 The complexity of the algorithm is measured by the number of moves. Let T(n) denote the number of moves for the algorithm to move n disks from tower A to tower B with T(1)=1.
 
 ![image](https://user-images.githubusercontent.com/24220136/231625022-abf145d3-d38f-4e94-821c-75a5fc1df56d.png)
